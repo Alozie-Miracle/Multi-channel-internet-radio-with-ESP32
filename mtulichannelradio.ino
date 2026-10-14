@@ -6,8 +6,8 @@
 using namespace libhelix;
 
 // ===== WIFI CONFIG =====
-const char* ssid = "Marc4@Airtel_6407";
-const char* password = "@callme20";
+const char* ssid = ".....";
+const char* password = ".....";
 
 // ===== RELIABLE DIRECT MP3 STATIONS ARRAY (No redirects/playlists) =====
 const char* radioStations[][2] = {
